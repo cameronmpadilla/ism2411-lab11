@@ -1,3 +1,6 @@
+# 1: I would use the .get method in real life if I was making a form that had required questions on it, that way if someone else was filling it out then they can go back and fill out what they missed. I would use the bracket method if I was trying to find a field in a databasde. 
+# 2: This pattern reminds me of how in excel you can make equations in a cell to get the certain value you need based on other cells. The Python verison is helpful for larger datasets because you will write in a lot less code and it can cover more space with less steps. 
+
 # Exercise 1
 
 customer = {"name": "Alice", 
